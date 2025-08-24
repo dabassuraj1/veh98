@@ -1,8 +1,6 @@
-pyrogram==2.0.106
-tgcrypto==1.2.5
-pymongo==4.10.1
-requests==2.32.3
-beautifulsoup4==4.12.3
-lxml==5.3.0
-urllib3==2.2.2
-certifi==2024.8.30
+pyrofork
+requests
+beautifulsoup4
+trio
+pymongo
+tgcrypto-pyrofork
